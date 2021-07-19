@@ -1,3 +1,7 @@
+
+<details>
+<summary>CA</summary>
+
 ```
 Certificate:
     Data:
@@ -35,3 +39,5 @@ Certificate:
          28:18:fb:ad:e1:81:31:59:fd:93:70:43:ad:de:4c:49:3f:1e:
          22:1d:72:93:a3:5d:9f:98:d6:17:8c:81:57
 ```
+
+</details>
