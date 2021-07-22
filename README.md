@@ -3,6 +3,6 @@
     
 ```
     
-john@sahhar.io
+john[at]sahhar.io
     
 ```
