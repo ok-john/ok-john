@@ -18,10 +18,12 @@
             https://neuromancer.sk/std/
 
             https://tools.ietf.org/id/draft-ietf-lwig-curve-representations-09.html
-
+            
+            https://datatracker.ietf.org/doc/html/rfc5639
+    
             https://sites.google.com/site/fullycapable/Home/thesendmailcapabilitiesissue
    
-
+            
     
 </details>
 
