@@ -23,7 +23,7 @@
     
             https://sites.google.com/site/fullycapable/Home/thesendmailcapabilitiesissue
    
-            
+            https://catonmat.net/set-operations-in-unix-shell
     
 </details>
 
