@@ -25,6 +25,8 @@
    
             https://catonmat.net/set-operations-in-unix-shell
     
+            https://datatracker.ietf.org/doc/active/
+    
 </details>
 
 <details>
