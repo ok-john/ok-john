@@ -28,6 +28,9 @@
             https://datatracker.ietf.org/doc/active/
     
             https://crypto.stanford.edu/pbc/notes/ep/
+    
+            https://safecurves.cr.yp.to/
+    
 </details>
 
 <details>
