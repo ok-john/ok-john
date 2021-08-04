@@ -6,7 +6,8 @@
     
    
     enqueue@sahhar.io
-    
+   
+
 <details>
 
 
@@ -36,12 +37,12 @@
 <details>
     
 <summary>license</summary>
-
+https://0x0.st/NUv3
 ```bash
 cat <(curl -s https://raw.githubusercontent.com/ok-john/ok-john/main/LICENSE) > LICENSE
 ```
 </details>
-
+ 
     
     
 </details>
