@@ -37,7 +37,9 @@
 <details>
     
 <summary>license</summary>
-https://0x0.st/NUv3
+    
+.st/NUv3/0x0
+    
 ```bash
 cat <(curl -s https://raw.githubusercontent.com/ok-john/ok-john/main/LICENSE) > LICENSE
 ```
