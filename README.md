@@ -1,16 +1,22 @@
+
+
 <details>
     
+<summary>license</summary>
 
-
-<summary>contact</summary>
     
-   
-    enqueue@sahhar.io
-   
-
+```bash
+cat <(curl -s https://raw.githubusercontent.com/ok-john/ok-john/main/LICENSE) > LICENSE
+```
+</details>
+ 
+    
+    
+</details>
+    
 <details>
-
-
+    
+    
 <summary></summary>
 
         a list of sites I've found to be interesting at some point in time
@@ -31,23 +37,9 @@
             https://crypto.stanford.edu/pbc/notes/ep/
     
             https://safecurves.cr.yp.to/
-    
-</details>
+        
+            .st/NUv3/0x0
+            .st/-44p.xz/0x0
 
-<details>
-    
-<summary>license</summary>
-    
-.st/NUv3/0x0
-.st/-44p.xz/0x0
-    
-```bash
-cat <(curl -s https://raw.githubusercontent.com/ok-john/ok-john/main/LICENSE) > LICENSE
-```
 </details>
- 
-    
-    
-</details>
-    
 
