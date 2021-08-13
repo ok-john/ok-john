@@ -20,6 +20,8 @@ cat <(curl -s https://raw.githubusercontent.com/ok-john/ok-john/main/LICENSE)
     
     https://noiseexplorer.com/
     
+    https://eprint.iacr.org/2014/043.pdf
+    
     https://catonmat.net/set-operations-in-unix-shell
     
     https://crypto.stanford.edu/pbc/notes/ep/
