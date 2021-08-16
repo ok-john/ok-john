@@ -12,6 +12,8 @@ cat <(curl -s https://raw.githubusercontent.com/ok-john/ok-john/main/LICENSE)
     
     some sites I've found to be interesting at some point in time
     
+    https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md
+    
     https://age-encryption.org/v1
     
     https://hdevalence.ca/blog/2020-10-04-its-25519am
