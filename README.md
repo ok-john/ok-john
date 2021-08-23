@@ -12,6 +12,10 @@ cat <(curl -s https://raw.githubusercontent.com/ok-john/ok-john/main/LICENSE)
     
     some sites I've found to be interesting at some point in time
     
+    https://eprint.iacr.org/2021/243.pdf
+    
+    https://eprint.iacr.org/2005/187.pdf
+    
     https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md
     
     https://age-encryption.org/v1
