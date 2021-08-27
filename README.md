@@ -24,6 +24,8 @@ cat <(curl -s https://raw.githubusercontent.com/ok-john/ok-john/main/LICENSE)
     
     https://hdevalence.ca/blog/2020-10-04-its-25519am
 
+    https://ristretto.group/
+    
     https://neuromancer.sk/std/
     
     https://safecurves.cr.yp.to/
