@@ -12,6 +12,8 @@ cat <(curl -s https://raw.githubusercontent.com/ok-john/ok-john/main/LICENSE)
     
     some sites I've found to be interesting at some point in time
     
+    http://tipc.sourceforge.net/getting_started.html
+    
     https://eprint.iacr.org/2015/1060.pdf
     
     https://eprint.iacr.org/2021/243.pdf
