@@ -1,12 +1,10 @@
 <details>
     
 <summary>license</summary>
-
 ```bash
 cat <(curl -s https://raw.githubusercontent.com/ok-john/ok-john/main/LICENSE)
 ```
-
-<details>
+<details> 
     
 <summary></summary>
     
@@ -52,5 +50,14 @@ cat <(curl -s https://raw.githubusercontent.com/ok-john/ok-john/main/LICENSE)
     .st/-44p.xz/0x0
     
 </details>
+
+</details>
+
+<details>
+<summary>contact</summary>
+    
+```
+john[at]sahhar.io
+```
 
 </details>
