@@ -55,10 +55,10 @@ cat <(curl -s https://raw.githubusercontent.com/ok-john/ok-john/main/LICENSE)
 </details>
 
 <details>
+    
 <summary>contact</summary>
     
 ```
-john[at]sahhar.io
+~johns/list@lists.sr.ht
 ```
-
 </details>
