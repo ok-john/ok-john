@@ -1,6 +1,7 @@
 <details>
     
 <summary>license</summary>
+    
 ```bash
 cat <(curl -s https://raw.githubusercontent.com/ok-john/ok-john/main/LICENSE)
 ```
