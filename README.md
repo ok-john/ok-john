@@ -1,15 +1,16 @@
 <details>
     
-<summary>license</summary>
+<summary>contact</summary>
     
-```bash
-cat <(curl -s https://raw.githubusercontent.com/ok-john/ok-john/main/LICENSE)
 ```
-<details> 
-    
+~johns/list@lists.sr.ht
+```
+
+<details>
+        
 <summary></summary>
     
-    some sites I've found to be interesting at some point in time
+    some things I've enjoyed reading
     
     http://tipc.sourceforge.net/getting_started.html
     
@@ -46,19 +47,7 @@ cat <(curl -s https://raw.githubusercontent.com/ok-john/ok-john/main/LICENSE)
     https://tools.ietf.org/id/draft-ietf-lwig-curve-representations-09.html
 
     https://sites.google.com/site/fullycapable/Home/thesendmailcapabilitiesissue
-
-    .st/NUv3/0x0
-    .st/-44p.xz/0x0
     
 </details>
-
-</details>
-
-<details>
     
-<summary>contact</summary>
-    
-```
-~johns/list@lists.sr.ht
-```
 </details>
