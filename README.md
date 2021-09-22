@@ -1,5 +1,8 @@
+Some repositories are mirrored here - for active development go to https://git.sr.ht/~johns.
+
+
 <details>
-    
+        
 <summary>contact</summary>
     
 ```
