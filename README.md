@@ -1,4 +1,4 @@
-Some repositories are mirrored here - for active development go to https://sr.ht/~johns.
+Some repositories are mirrored here - for active development go to https://git.sr.ht/~johns.
 
 
 <details>
