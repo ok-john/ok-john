@@ -14,6 +14,8 @@ Some repositories are mirrored here - for active development go to https://git.s
 <summary></summary>
     
     some things I've enjoyed reading
+        
+    https://encryptioncompendium.org/
     
     http://tipc.sourceforge.net/getting_started.html
     
