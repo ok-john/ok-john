@@ -53,6 +53,10 @@ Some repositories are mirrored here - for active development go to https://git.s
 
     https://sites.google.com/site/fullycapable/Home/thesendmailcapabilitiesissue
     
+
+        
 </details>
-    
+        
 </details>
+
+[](https://www.googletagmanager.com/gtag/js?id=G-KZEM2W5YXT)
