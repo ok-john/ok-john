@@ -1,5 +1,5 @@
 
 <p float="left" align="middle">
-<img src=".svg" />
+<img src="./.svg" />
 </p>
 
