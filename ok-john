@@ -1,0 +1,1 @@
+function ok { echo -e "\t\t $1"; sleep 0.1;ok $(rot_left $1); }; ok 'ok-john'
